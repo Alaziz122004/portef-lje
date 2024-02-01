@@ -1,0 +1,68 @@
+body{
+    background-color: black;
+    overflow: hidden;
+}
+
+h1{
+    position: relative;
+    top: 20px;
+    color: #FDDC5C;
+    font-size: 45px;
+}
+h2{position: relative;
+    top: 20px;
+    color: #FDDC5C;
+    font-size: 35px;
+    
+}
+p{
+    color: #FDDC5C;
+    position: relative;
+    top: 65px;
+    font-size: 20px;
+}  
+
+img{
+    position: relative;
+    height: 500px;
+    width: 350px;
+    left: 950px;
+    bottom: 450px;
+}
+
+ul{
+    color: #FDDC5C;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+#minLogo{
+   width: 350px;
+   height: auto;
+   position: relative;
+   top: 40px;
+   left: 2px;
+}
+
+a {
+    text-decoration: none;
+    color: #FDDC5C;
+}
+
+#omMeg{
+    width: 600px;
+    margin-left: 10px;
+    top: 260px;
+}
+#ommeg{
+    left: 20px;
+    top:10px;
+}
+
+h1{
+    font-size: 30px;
+}
+
+
+
