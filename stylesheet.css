@@ -5,9 +5,9 @@ body{
 
 h1{
     position: relative;
-    top: 20px;
+    top: 30px;
     color: #FDDC5C;
-    font-size: 45px;
+    font-size: 40px;
 }
 h2{position: relative;
     top: 20px;
@@ -53,16 +53,19 @@ a {
 #omMeg{
     width: 600px;
     margin-left: 10px;
-    top: 260px;
+    top: 110px;
 }
 #ommeg{
     left: 20px;
     top:10px;
 }
-
-h1{
-    font-size: 30px;
+h3{
+    color: #FDDC5C;
+    top: 30px;
+    font-size: 20px;
 }
+
+
 
 
 
